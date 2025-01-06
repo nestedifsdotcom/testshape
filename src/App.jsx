@@ -24,7 +24,7 @@ function App() {
 				alt=""
 				className="treeImg"
 				style={{
-					"--top-offset": scrollTop + "px",
+					"margin-top": scrollTop + "px",
 				}}
 			/>
 			<div className="item"></div>
